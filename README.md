@@ -7,5 +7,5 @@ increase `w2` => increase the plane slope in x2 direction<br>
 increase `b` => lift the whole plane upwards<br>
 
 # How to use
-*Step 1*: Clone this repo
+*Step 1*: Clone this repo<br>
 *Step 2*: open the notebook
